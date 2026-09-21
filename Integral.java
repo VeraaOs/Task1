@@ -1,7 +1,7 @@
 public class Integral {
     public static final double A = 0.0;
     public static final double B = Math.PI;
-    public static final int INTERVALS = 10000000;
+    public static final int INTERVALS = 9999996;
     public static final int THREADS = 6;
     public static final int ITEMS_PER_THREAD = INTERVALS / THREADS;
 
